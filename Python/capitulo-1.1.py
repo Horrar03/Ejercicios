@@ -3,6 +3,12 @@ from typing import TypeVar
 
 pi = math.pi
 
+# Capitulo 1: Definiciones elementales de funciones
+# 1.1 Definiciones por composición sobre números, listas y booleano
+# En esta relación se plantean ejercicios con definiciones de funciones
+# por composición sobre números, listas y booleanos
+
+
 while True:
 
         os.system('cls')
